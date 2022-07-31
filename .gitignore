@@ -1,0 +1,5 @@
+venv
+media
+*.zip
+.idea
+.DS_Store
